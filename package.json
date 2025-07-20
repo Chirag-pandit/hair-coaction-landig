@@ -9,7 +9,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@clerk/clerk-react": "latest",
     "@clerk/nextjs": "latest",
     "@emotion/is-prop-valid": "latest",
     "@hookform/resolvers": "^3.9.1",
