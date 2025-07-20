@@ -31,7 +31,7 @@ import { LampContainer } from "@/components/ui/lamp"
 import { CardHoverEffect } from "@/components/ui/card-hover-effect"
 import { GlowingStars } from "@/components/ui/glowing-stars"
 import { MovingBorder } from "@/components/ui/moving-border"
-import { SignInButton, SignUpButton, UserButton, useUser } from "@clerk/clerk-react"
+import { SignInButton, SignUpButton, UserButton, useUser } from "@clerk/nextjs"
 
 const navItems = [
   { name: "Problem", link: "#problem", icon: <Target className="h-4 w-4" /> },
